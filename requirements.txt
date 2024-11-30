@@ -7,3 +7,6 @@ nltk
 xgboost
 streamlit
 flask
+gunicorn
+keras
+tensorflow
